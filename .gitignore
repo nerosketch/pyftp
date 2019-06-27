@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.dat
+*.cfg
+*.zip
+*.txt
+!requirements.txt
